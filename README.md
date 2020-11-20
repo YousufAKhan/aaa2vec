@@ -7,3 +7,4 @@ This is a repository for the machine learning called aaa2vec, which predicts whe
 
 A Python 3 notebook for the code is provided, along with a FASTA file containing all the positive traininge examples for proteins in the AAA+ superfamily. A file with a link to the uniprot database fasta file is also included (the file is not included due to space limitations.
 
+Please contact YousufAKhan1996@gmail.com if there are any questions. 
